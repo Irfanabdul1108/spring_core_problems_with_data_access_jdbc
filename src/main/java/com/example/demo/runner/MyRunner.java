@@ -49,7 +49,7 @@ public void run(String... args) {
 
     System.out.println();
 
-    // Question 5
+    // Question 5 & 6
 
     System.out.println("Insert New Category");
 
